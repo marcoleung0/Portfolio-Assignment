@@ -5,7 +5,7 @@ Description: Portfolio project including self introduction page with the exercis
 
 1. Self introduction
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/07dZ5JkQK3A/0.jpg)](https://youtu.be/07dZ5JkQK3A)
 
 2. Bio
 ![alt text](image.png)
